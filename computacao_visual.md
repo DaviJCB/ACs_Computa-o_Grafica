@@ -127,12 +127,3 @@ print("Gráfico de vendas gerado!")
 ```
 
 ---
-
-## Conclusão
-
-| Área                     | Entrada Principal        | Objetivo Principal            | Saída Principal             | Exemplo Chave                   |
-|--------------------------|--------------------------|--------------------------------|------------------------------|----------------------------------|
-| **Síntese de Imagens**   | Dados/Modelos abstratos | Criar uma imagem do zero       | Imagem sintética            | Renderização de personagens 3D |
-| **Processamento de Imagens** | Imagem existente       | Melhorar ou modificar a imagem | Imagem modificada            | Aplicação de filtros            |
-| **Visão Computacional**  | Imagem/Vídeo            | Extrair informações de alto nível | Dados (rótulos, coordenadas) | Detecção de objetos e rostos   |
-| **Visualização Computacional** | Conjuntos de dados   | Transformar dados em visualização | Gráfico, diagrama           | Gráficos de vendas              |
