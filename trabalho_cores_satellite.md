@@ -9,7 +9,9 @@
 ### Imagens ilustrativas
 
 #### Imagem 1 - Composição de bandas (falso colorido)
-![Composição de bandas](3331dd1b-deb4-49a6-b447-d7906bbabe6c.png)
+<img width="1082" height="702" alt="image" src="https://github.com/user-attachments/assets/8485c1c5-63c6-4aa8-9944-321afe7ff816" />
+
 
 #### Imagem 2 - Satélites em cores naturais (RGB)
-![Satélites em cores naturais](37ed806a-3e2e-4dad-8cfd-a8b82a09fae2.png)
+<img width="2048" height="1173" alt="image" src="https://github.com/user-attachments/assets/7a180ea6-954a-44b7-92b2-107697fd7575" />
+
